@@ -11,9 +11,9 @@
 ## How To Execute ( ! Important )
 To execute this project , you need to install these tools :
 <ul>
-	<li> PHP </li> </br>
-	<li> PHP Composer </li> </br>
-	<li> Wamp Server  Or an equivalent</li> </br>
+	<li> PHP </li>
+	<li> PHP Composer </li>
+	<li> Wamp Server  Or an equivalent</li>
 </ul>
 
 </br>
