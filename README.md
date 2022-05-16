@@ -8,17 +8,19 @@
 </p>
 
 
-## How To Excute ( ! Important )
+## How To Execute ( ! Important )
 To execute this project , you need to install these tools :
 <ul>
-	<li> PHP </li>
-	<li> PHP Composer </li>
-	<li> Wamp Server  Or an equivalent</li>
+	<li> PHP </li> </br>
+	<li> PHP Composer </li> </br>
+	<li> Wamp Server  Or an equivalent</li> </br>
 </ul>
 
-default credentials :
-username : admin@admin.com
-password : password
+</br>
+
+default credentials : </br>
+username : admin@admin.com </br>
+password : password </br>
 
 ## About Laravel
 
